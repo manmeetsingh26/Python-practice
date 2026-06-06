@@ -1,24 +1,23 @@
 # 🐍 Python Practice Repository
 
-A collection of Python programs developed to strengthen programming fundamentals, improve problem-solving skills, and build a solid foundation in software development.
+A collection of Python programs, exercises, and mini-projects created to strengthen programming fundamentals, improve problem-solving skills, and build a strong foundation in software development.
 
-This repository documents my Python learning journey through practical exercises, mini-projects, and coding challenges.
+This repository documents my Python learning journey through consistent practice, hands-on coding, and project-based learning.
 
 ---
 
-# 📖 About
-
-The purpose of this repository is to:
+# 🎯 Repository Objectives
 
 - Learn Python programming fundamentals
-- Improve logical and analytical thinking
-- Practice problem-solving techniques
-- Build a foundation for advanced Python development
-- Develop consistency through regular coding practice
+- Develop logical and analytical thinking
+- Strengthen problem-solving abilities
+- Build practical programming skills
+- Prepare for advanced Python development
+- Create a strong foundation for software engineering
 
 ---
 
-# 🚀 Topics Covered
+# 📚 Topics Covered
 
 ## Python Fundamentals
 
@@ -29,14 +28,132 @@ The purpose of this repository is to:
 - Conditional Statements
 - Loops
 
-## Intermediate Concepts (Upcoming)
+## Intermediate Concepts
 
 - Functions
+- Strings
 - Lists
-- Tuples
 - Dictionaries
-- File Handling
-- Object-Oriented Programming (OOP)
+- Modules
+- File Handling (Planned)
+
+## Advanced Concepts (Upcoming)
+
+- Object-Oriented Programming
+- Exception Handling
+- Data Structures
+- Automation Scripts
+
+---
+
+# 🚀 Completed Programs
+
+## 👤 User Information Program
+
+Collects and displays user information using input and output operations.
+
+### Concepts Used
+
+- Variables
+- Input & Output
+- Strings
+
+---
+
+## 🧮 Simple Calculator
+
+Performs basic arithmetic operations.
+
+### Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+### Concepts Used
+
+- Operators
+- Conditional Statements
+- User Input
+
+---
+
+## 🔢 Even Odd Checker
+
+Determines whether a number is even or odd.
+
+### Concepts Used
+
+- Modulus Operator
+- Conditional Statements
+
+---
+
+## 🎯 Number Guessing Game
+
+Interactive game where the user attempts to guess a randomly generated number.
+
+### Concepts Used
+
+- Random Module
+- Loops
+- Conditional Statements
+
+---
+
+## 🎓 Student Grade Calculator
+
+Calculates grades based on marks entered by the user.
+
+### Features
+
+- Grade Calculation
+- Input Validation
+- Decision Making
+
+### Concepts Used
+
+- Conditional Statements
+- Comparison Operators
+
+---
+
+## 🔐 Password Generator
+
+Generates secure random passwords based on user-defined length.
+
+### Features
+
+- Random Password Generation
+- Custom Password Length
+- Letters, Numbers, and Symbols
+
+### Concepts Used
+
+- Random Module
+- Strings
+- Loops
+
+---
+
+# 📊 Learning Progress
+
+| Topic | Status |
+|---------|---------|
+| Variables | ✅ Completed |
+| Data Types | ✅ Completed |
+| Input & Output | ✅ Completed |
+| Operators | ✅ Completed |
+| Conditional Statements | ✅ Completed |
+| Loops | ✅ Completed |
+| Strings | ✅ Completed |
+| Random Module | ✅ Completed |
+| Functions | 🔄 In Progress |
+| Lists | 🔄 Planned |
+| Dictionaries | 🔄 Planned |
+| File Handling | 🔄 Planned |
+| OOP | 🔄 Planned |
 
 ---
 
@@ -50,136 +167,10 @@ Python-Practice
 ├── EvenOdd.py
 ├── NumberGuessingGame.py
 ├── StudentGradeCalculator.py
+├── PasswordGenerator.py
 │
 └── README.md
 ```
-
----
-
-# ✅ Completed Programs
-
-## 👤 User Information Program
-
-- Accepts user input
-- Displays user details
-- Demonstrates basic input/output operations
-
----
-
-## 🧮 Simple Calculator
-
-Features:
-
-- Addition
-- Subtraction
-- Multiplication
-- Division
-
-Concepts Used:
-
-- Variables
-- Operators
-- Conditional Logic
-
----
-
-## 🔢 Even Odd Checker
-
-Features:
-
-- Accepts a number as input
-- Determines whether the number is even or odd
-
-Concepts Used:
-
-- Modulus Operator
-- Conditional Statements
-
----
-
-## 🎯 Number Guessing Game
-
-Features:
-
-- Generates a random number
-- User attempts to guess the number
-- Displays result based on user input
-
-Concepts Used:
-
-- Random Module
-- Input Handling
-- Conditional Statements
-
----
-
-## 🎓 Student Grade Calculator
-
-Features:
-
-- Accepts marks as input
-- Calculates grades based on score range
-- Displays student grade
-
-Concepts Used:
-
-- Conditional Statements
-- Decision Making
-- Input Validation
-
----
-
-# 📊 Current Progress
-
-| Topic | Status |
-|---------|---------|
-| Variables | ✅ Completed |
-| Data Types | ✅ Completed |
-| Input & Output | ✅ Completed |
-| Operators | ✅ Completed |
-| Conditional Statements | ✅ Completed |
-| Random Module | ✅ Completed |
-| Loops | 🔄 In Progress |
-| Functions | 🔄 Planned |
-| Lists | 🔄 Planned |
-| Dictionaries | 🔄 Planned |
-| File Handling | 🔄 Planned |
-| OOP | 🔄 Planned |
-
----
-
-# 🎯 Learning Objectives
-
-Through this repository, I aim to:
-
-- Strengthen Python fundamentals
-- Improve problem-solving abilities
-- Learn software development concepts
-- Build practical Python applications
-- Prepare for advanced Python projects
-
----
-
-# 🔮 Future Programs
-
-## Beginner Projects
-
-- Temperature Converter
-- Password Generator
-- Simple Interest Calculator
-- Unit Converter
-
-## Intermediate Projects
-
-- Student Management System
-- Library Management System
-- Expense Tracker (Python Version)
-
-## Advanced Projects
-
-- GUI Applications
-- Automation Scripts
-- Data Analysis Projects
 
 ---
 
@@ -192,25 +183,61 @@ Through this repository, I aim to:
 
 ---
 
+# 🎯 Future Projects
+
+### Beginner Projects
+
+- Temperature Converter
+- Unit Converter
+- Age Calculator
+- Currency Converter
+
+### Intermediate Projects
+
+- Student Management System
+- Library Management System
+- Expense Tracker (Python Version)
+
+### Advanced Projects
+
+- Automation Scripts
+- GUI Applications
+- Data Analysis Projects
+- AI-Based Utilities
+
+---
+
+# 📈 Learning Goals
+
+- Strengthen Python fundamentals
+- Build practical applications
+- Improve problem-solving skills
+- Learn Object-Oriented Programming
+- Explore automation and software development
+- Prepare for advanced Python projects
+
+---
+
 # 👨‍💻 Author
 
 **Manmeet Singh**
 
 🎓 BCA Student — Chandigarh University
 
-💻 Interests:
+💻 Interests
 
 - Software Development
 - Python Programming
 - Data Structures & Algorithms
 - Problem Solving
+- Web Development
 
 ---
 
-# 📈 Repository Goal
+# 🌟 Repository Vision
 
-The objective of this repository is not only to learn Python syntax but also to develop strong programming habits, problem-solving skills, and a practical understanding of software development.
+This repository represents my commitment to continuous learning, practical implementation, and consistent improvement in programming. Every program added contributes to building a stronger foundation in Python and software development.
 
 ---
 
-⭐ Consistency and practice are the foundations of becoming a better programmer.
+⭐ Learning, Building, and Improving One Program at a Time.
